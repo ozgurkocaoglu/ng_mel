@@ -1,13 +1,13 @@
 {
-"Rev.12-01 | 17.04.2024": [
+"Rev_12_01": [
     { "Item": "CDL 53-51-01",	"Remark": "Added CDL 53-51-01 VCT Finlets for A/Cs (TC-SEK,TC-SEM,TC-SOC,TC-SOD,TC-SOE)"}
 	],
-"Rev.12-02 | 26.04.2024": [
+"Rev_12_02": [
     { "Item": "0.5 & 1.2",	"Remark": "Added New A/Cs (TC-SPV,TC-SRB,TC-SPY,TC-SPZ,TC-SRC)"},
  	{ "Item": "MEL 32-22",	"Remark": "Added MEL 32-22 ’Two-Position Tail Skid’ item for SFP2 A/Cs (TC-SPY)"},
 	{ "Item": "MEL 23-12-01B",	"Remark": "Revised A/C efectivities of MEL 23-12-01B ’Redundant ELT’ for A/Cs (TC-SNV,TC-SPZ(newly added)"}
 	],
-"Rev.13 | 16.07.2024": [
+"Rev_13": [
     { "Item": "TBL",	"Remark": "Simplification study to compare MMEL/DDG & Company MEL for some items (..to be listed soon..)"},
 	{ "Item": "TBL",	"Remark": "Some Additional Items (..to be listed soon..)"}
 	]
