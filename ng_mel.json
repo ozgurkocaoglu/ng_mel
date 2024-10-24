@@ -8,7 +8,13 @@
 	{ "Item": "MEL 23-12-01B",	"Remark": "Revised A/C efectivities of MEL 23-12-01B ’Redundant ELT’ for A/Cs (TC-SNV, TC-SPZ(newly added)"}
 	],
 "Rev_13": [
-    { "Item": "TBL",	"Remark": "Simplification study to compare MMEL/DDG & Company MEL for some items (..to be listed soon..)"},
-	{ "Item": "TBL",	"Remark": "Some Additional Items (..to be listed soon..)"}
-	]
+    { "Item": "TBL",	"Remark": "Simplification"},
+    { "Item": "TBL",	"Remark": "Simplification"},
+    { "Item": "TBL",	"Remark": "Simplification"},
+    { "Item": "TBL",	"Remark": "Additional Items)"},
+    { "Item": "TBL",	"Remark": "Additional Items)"},
+    { "Item": "TBL",	"Remark": "Additional Items)"},
+    { "Item": "TBL",	"Remark": "Additional Itemsn"}
+
+    ]
 }
