@@ -8,13 +8,14 @@
 	{ "Item": "MEL 23-12-01B",	"Remark": "Revised A/C efectivities of MEL 23-12-01B ’Redundant ELT’ for A/Cs (TC-SNV, TC-SPZ(newly added)"}
 	],
 "Rev_13": [
-    { "Item": "TBL",	"Remark": "Simplification"},
-    { "Item": "TBL",	"Remark": "Simplification"},
-    { "Item": "TBL",	"Remark": "Simplification"},
-    { "Item": "TBL",	"Remark": "Additional Items)"},
-    { "Item": "TBL",	"Remark": "Additional Items)"},
-    { "Item": "TBL",	"Remark": "Additional Items)"},
-    { "Item": "TBL",	"Remark": "Additional Itemsn"}
+    { "Item": "21-02-03",	"Remark": "Simplification | Paragraph in Note regarding 21-01-01-03 has been removed, item effective for 900/900ER only"},
+    { "Item": "23-24",	"Remark": "Simplification | Effectivity list has been revised as SPF, SPN, SPV, SRB, SPD, SPC, SRC, SPY, SPZ"},
+    { "Item": "25-06-01C",	"Remark": "Simplification | MEL Item has been removed. (Item is not available in MMEL/DDG"},
+    { "Item": "25-17-01A",	"Remark": "Simplification | Text has been revised as One First-Aid Kit shall be available, complete and operative. In addition, 1. Inoperative or incomplete FAK(s) is/are resealed in a manner that will identify it/them as a unit that can not be mistaken for a fully serviceable unit. 2. Repairs or replacements are made within 2 calendar days."},
+    { "Item": "33-21",	"Remark": "Simplification | STC effectivity has been set for TC-SNV and TC-SPR only"},
+    { "Item": "34-15-01C",	"Remark": "Simplification | Interval has been 'C'. (P.S. MEL 34-15-01A item in the MMEL/DDG does not need to be in the SXS-NG-MEL since MEL 34-15-01C item already operationally meets the requirement.)"},
+    { "Item": "34-16A",	"Remark": "Simplification | Interval has been 'D'. (P.S. No action is required for MEL 34-16B One Required )"},
+    { "Item": "TBL",	"Remark": "Additional Items"}
 
     ]
 }
