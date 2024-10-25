@@ -15,7 +15,21 @@
     { "Item": "33-21",	"Remark": "Simplification | STC effectivity has been set for TC-SNV and TC-SPR only"},
     { "Item": "34-15-01C",	"Remark": "Simplification | Interval has been 'C'. (P.S. MEL 34-15-01A item in the MMEL/DDG does not need to be in the SXS-NG-MEL since MEL 34-15-01C item already operationally meets the requirement.)"},
     { "Item": "34-16A",	"Remark": "Simplification | Interval has been 'D'. (P.S. No action is required for MEL 34-16B One Required )"},
-    { "Item": "TBL",	"Remark": "Additional Items"}
+    { "Item": "22-04",	"Remark": "Effectivity has been set for SNV, SOT, SPB and SUU only, (SPM has been removed)"},
+    { "Item": "22-20-01",	"Remark": "It has been effective for aircraft other than aircraft that are effective under item 22-20-02."},
+    { "Item": "22-20-02",	"Remark": "TC-SPJ, TC-SPK, TC-SPM, TC-SPO, TC-SPN, TC-SPR, TC-SPS, TC-SPT, TC-SPU have been removed."},
+    { "Item": "23-03-02",	"Remark": "NOTE for TC-SPK has been removed."},
+    { "Item": "25-17-04A",	"Remark": "Punctuation in the NOTE has been corrected."},
+    { "Item": "30-11-03",	"Remark": "Note2 has been removed."},
+    { "Item": "30-13",	"Remark": "Company Note has been removed."},
+    { "Item": "33-03-01",	"Remark": "Effectivity has been set for SNN, SNR, SNT, SNU, SON, SOO, SOP, SOR, SOV, SOY, SOZ, SPA,SPB, SPC, SPD, SPE, SPZ and SUU only, (SPY has been removed)"},
+    { "Item": "33-51",	"Remark": "STC effectivity has been set for TC-SNV and TC-SPR only"},
+    { "Item": "38-02B",	"Remark": "NOTE has been revised."},
+    { "Item": "52-03-01",	"Remark": "Maintenance NOTE has been revised as ('It is especially recommended to consider deactivation if the fault causes the associated light to illuminate intermittently.' has been added.)"},
+    { "Item": "APX 3.3",	"Remark": "NOTE and Table have been revised (Feedback from TM)"},
+    { "Item": "MEL 1. Preamble",	"Remark": "Text has been revised as ('Flight crew may also change the light bulbs of Annunciator Lights in the cockpit.' has been added & '..or lamp' has been removed)"},
+    { "Item": "MEL 0.7",	"Remark": "'EFCV: Electronic Flow Control Valve' & 'HIL: Hold Item List' have been added under the abbreviations section."},
+    { "Item": "0.6.4",	"Remark": "'-800' indicates that item is for the Model 737-800. Unless otherwise indicated items that are applicable to Model 737-800 are also applicable to the 737-800W, 737-800SFP1, 737-800SFP2."}
 
     ]
 }
